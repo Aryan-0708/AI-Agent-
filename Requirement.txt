@@ -1,0 +1,8 @@
+google-adk
+google-genai
+kaggle-secrets
+numpy
+pandas
+notebook
+ipykernel
+typing-extensions
